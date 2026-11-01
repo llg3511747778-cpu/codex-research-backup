@@ -1,0 +1,13 @@
+{
+  "time": "2026-10-29T14:01:13.831538+08:00",
+  "status": "IMPORTED_AND_ALL_LIBRARY_VALIDATED",
+  "id": "MC-078",
+  "pdf": "D:\\data\\微通道文献\\原始PDF\\MC-078__Numerical simulation and mechanism analysis of the effect of microchannel manifolds on temperature uniformity.pdf",
+  "pdf_sha256": "dad222229d79a0daebdb00f5b0fa08112688e2a69fa6d5b47b09854b1c2e0245",
+  "pages": 17,
+  "valid_ids": 76,
+  "persisted_PDFs": 63,
+  "new_record_unique": true,
+  "all_persisted_files_open_and_sha_match": true,
+  "canonical_files_updated_in_place": true
+}

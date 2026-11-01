@@ -1,0 +1,1071 @@
+{
+  "status": "LOCAL_MIGRATION_AUDITED",
+  "records": 75,
+  "local_verified_pdfs": 62,
+  "historical_without_local_original": 13,
+  "missing": [
+    {
+      "id": "MC-059",
+      "title": "All laser-based fabrication of microchannel heat sink",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-060",
+      "title": "Development of capillary-based two-phase microcooler using laser-fabricated hierarchical silicon pin fin/microchannel wick",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-061",
+      "title": "Direct preparation of diamond heat-dissipation microchannel assemblies by picosecond laser",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-062",
+      "title": "Enhanced flow boiling heat transfer in microchannels with embedded bio-inspired micro-pillar: Bubble dynamics and thermal-hydraulic performance",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-063",
+      "title": "Experiment on enhanced heat transfer of embedded manifold Tesla-patterned microchannel heat sink",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-064",
+      "title": "Experimental evaluation of 3D printed topology optimized liquid and hybrid-cooled heat sinks for data centers",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-065",
+      "title": "Femtosecond laser structuring on direct bonded copper (DBC) for energy-efficient thermal management of power electronics",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-066",
+      "title": "Flow boiling and bubble dynamics in 3D-printed porous microchannels with enhanced heat transfer through corrosion modification and open-structure design",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-067",
+      "title": "Laser fabrication of diamond microchannels with Sub-100 nm cracks for high-efficiency thermal management",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-068",
+      "title": "Laser-textured two-phase heat-sink surfaces with cavity-size matching and capillarity-dynamics coupling for high-flux immersion cooling",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-069",
+      "title": "Microcavity-enhanced flow boiling in microchannels with improved hydraulic stability for high-heat-flux thermal management",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-070",
+      "title": "Multilevel synergistic enhanced trapezoidal open microchannel heat sink for thermal management of electronic devices",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    },
+    {
+      "id": "MC-071",
+      "title": "Thermal competition and flow interaction in parallel microchannel evaporators for high-heat-flux cooling",
+      "reason": "Historical index entry; original PDF not present in local inputs. Not declared corrupt."
+    }
+  ],
+  "legacy_evidence_warnings": [],
+  "verified_files": [
+    {
+      "id": "MC-001",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-001__A comprehensive review on microchannel heat sinks for electronics cooling.pdf",
+      "sha256": "577f4640e8815360311453357db7bf12b56f690edde2b566f2ec4e1299c2e5c0",
+      "pages": 31,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-002",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-002__Enhanced flow boiling heat transfer through synergistic effects of laser-ablated surface and open microchannels.pdf",
+      "sha256": "a006a5c3f188fcf3bad7108e28240a7eecac981a848afa0d64f675ce0213b8fa",
+      "pages": 20,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-003",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-003__Experimental and numerical study of CVD diamond microchannel cooling for high heat flux heterogeneous material-integrated dies.pdf",
+      "sha256": "c58429b19cf1f4ca130ccd5b626e2668bb7d7bf92857943d6706de533177e4a8",
+      "pages": 17,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-004",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-004__HFE-7100 flow boiling in open microchannels with grid-patterned multiscale textures.pdf",
+      "sha256": "cbf8443c7af7d0156f5a3e952ddc795ed8c055aa946b0e1869b0d4c43dc1f52b",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-005",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-005__Hotspot thermal management using a microchannel-pinfin hybrid heat sink.pdf",
+      "sha256": "54d6ecb145b0e2f1b53a4afc67572c6948af62eefe338180ae02d8e1f469ef55",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-006",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-006__Microchannel heat sinks for hotspot thermal management  achieving minimal pressure drop and maximal thermal performance.pdf",
+      "sha256": "5f0d87f1ee1af8ecf3eeb56e6c2134ec85422a8aa775f73169b198e2e571d151",
+      "pages": 22,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-007",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-007__Study on flow non-uniformity and design of tapered manifold inlet structure of manifold microchannels.pdf",
+      "sha256": "704780537a333a95efe70b40e701866db97776f73b98367a66cc59b2fa93043f",
+      "pages": 12,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-009",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-009__A hierarchical manifold microchannel heat sink array for high-heat-flux two-phase cooling of electronics.pdf",
+      "sha256": "492ff67ea9a7f3879befc2533c1bf1720a15f28c8d2e18ba601c387d8a6b8ac9",
+      "pages": 12,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-010",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-010__A reduced-order model-based genetic algorithm for optimizing pin–fin arrays in multi-source electronics cooling.pdf",
+      "sha256": "f79ea3c18e8dc90ad0268560b782a2b9676617269a999b8840cc59129ec93b08",
+      "pages": 14,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-011",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-011__A sensitivity analysis and computational assessment of topology optimization heat sink channel using a power law model.pdf",
+      "sha256": "8077b689d2b8aad18b1714f9027b8c28b27682c53abab657cbcca7cfe78d46c0",
+      "pages": 14,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-012",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-012__A 3D-IC Technology with Integrated Microchannel Cooling.pdf",
+      "sha256": "13b649b91965151ba06005798b138ed42d3f1a1b36886a6e65fee2d035ed302d",
+      "pages": 3,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-013",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-013__An additively manufactured manifold-microchannel heat sink for high-heat flux cooling.pdf",
+      "sha256": "c4ea922e5ee6229cffa42bcd5789dfe3ccc69c9fbaa2e9197c6c818afc1ffedd",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-014",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-014__Co-designing electronics with microfluidics for more sustainable cooling.pdf",
+      "sha256": "91e558734a9c1759374c128f3babd036868e1c706d5df1e3030d7322dae48e46",
+      "pages": 20,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-015",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-015__Constructal evolutionary design of liquid cooling heat sink embedded in 3D-IC based on deep neural network prediction.pdf",
+      "sha256": "f2c4140d73d581bcf1ad2bf106d5b94415ac4754247fd7c6d49a426f560a1f80",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-016",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-016__Cool-3D  An End-to-End Thermal-Aware Framework for Early-Phase Design Space Exploration of Microfluidic-Cooled 3DICs.pdf",
+      "sha256": "6cd11375e7e731c3fefb1cb514a8d3484b2b33d8560957ecc19db28f214a4611",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-017",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-017__Data-driven multi-fidelity topology design for enhancing the cooling performance of embedded liquid-cooled microchannels.pdf",
+      "sha256": "f1d859b5545ce5cb89f3a415dec2838a43b9ff892828c724f0024fe37417d1af",
+      "pages": 26,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-018",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-018__Data-driven multifidelity topology design with multi-channel variational auto-encoder for concurrent optimization of multiple design variable fie.pdf",
+      "sha256": "e164cb421b578f62e7fc71127556f82763628ade54b9a2469d3db0ddccb3b195",
+      "pages": 30,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-019",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-019__Design and thermofluidic performance of multi-level embedded cooling structures for multi-chip array electronic systems.pdf",
+      "sha256": "793eaac878a2798e6c0ceaee482beb7e3c14171b151e99e17d4c6ec49f85819e",
+      "pages": 31,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-020",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-020__Design, fabrication and characterization of a compact hierarchical manifold microchannel heat sink array for two-phase cooling.pdf",
+      "sha256": "55ef79dced1de4eae8564fb9ad2e95827ef1cec0442bb4b9db5297588c03e447",
+      "pages": 10,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-021",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-021__Effect of filling ratio on a self-driven manifold microchannel heat sink.pdf",
+      "sha256": "d66c789b53ca58edb01f6d861b96ff7d3c6c227841299c907699e44fa21a5d6a",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-022",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-022__Embedded cooling method with configurability and replaceability for multi-chip electronic devices.pdf",
+      "sha256": "fa381ad3aabf37c8ae0ed9e5c6965b2720c85216374ceae8452fd8c57ff3db77",
+      "pages": 10,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-023",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-023__Embedded cooling with 3D manifold for vehicle power electronics application  Single-phase thermal-fluid performance.pdf",
+      "sha256": "2d234d7abb6a4f437cda783cbb529b84934ad1499126e14fa6925bcc56b001c5",
+      "pages": 12,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-024",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-024__Embedded microchannel enabling efficient thermoelectric cooler for high-heat-flux hotspot.pdf",
+      "sha256": "156a6a1a3b01d4286207cb2c30b99ef688b22ab81bc8f7b512f9d5b49b7c8f60",
+      "pages": 14,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-025",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-025__Enabling record-high heat flux in wide-bandgap electronics via in-chip microfluidic cooling on diamond substrates.pdf",
+      "sha256": "e26a08f9143b4b6b7a6b593bcdcb1f53e2ced89c8be0466d186a2f917be043e4",
+      "pages": 11,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-026",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-026__Energy-efficient thermal management of 11 kW multi-chip arrays via biomimetic hierarchical embedded liquid cooling.pdf",
+      "sha256": "c8e1bade9da24d1bb95691fc4f0bfde5c2c3adfaca1d375948d346ab504e220e",
+      "pages": 35,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-027",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-027__Enhancing Liquid–Vapor Phase-Change Heat Transfer with Micro Nano-Structured Surfaces.pdf",
+      "sha256": "a9e6b2cca2a59dd36a3fadc396030cc938a532fa928a8c10d2e520bda1f96551",
+      "pages": 77,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-028",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-028__Experimental investigation on thermal-hydraulic performance of manifold microchannel with pin-fins for ultra-high heat flux cooling.pdf",
+      "sha256": "4745fd4b0204269ebd78a8974ab2222aa1bc2289f16c002b4af5a80560bd0480",
+      "pages": 16,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-029",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-029__Experimental investigations on enhancing flow boiling heat transfer in straight and wavy copper foam fin microchannels.pdf",
+      "sha256": "af0877ce3306a5b89c63f5a916742eecbbc704219b53aaf7215f466ae6e3cf53",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-030",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-030__Experimental study of a SiC manifold microchannel heat sink under background and hotspot heating scenarios at ultra-high heat flux.pdf",
+      "sha256": "8195ef08bfa801139b281a99f63c412de7b640062aab33693d3b25f84a476b3a",
+      "pages": 12,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-031",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-031__Experimental study of embedded manifold staggered pin-fin microchannel heat sink.pdf",
+      "sha256": "f499f2caf81029671fec212e56baec80e736e1ca4e7cdd47c03cfbc8fa9c5427",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-032",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-032__Flow boiling heat transfer in a lotus leaf-inspired microchannel heat sink with enhanced critical heat flux for large area chips.pdf",
+      "sha256": "a155bd8f68439f5beeeb3a9f4b6455f8988fb2c257d0c886e5cd34284663342f",
+      "pages": 18,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-033",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-033__Flow boiling in novel radial microchannels for cooling of electronic devices and modules of annular temperature distribution.pdf",
+      "sha256": "92d902b986d11145821e408c0c3619d0fec007c4431ec13b68c7465b7211848b",
+      "pages": 18,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-034",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-034__Heat dissipation and fluid flow in micro-channel heat sink equipped with semi-elliptical pin-fin structures  A numerical study.pdf",
+      "sha256": "19106be1aa483a728f2cb9bc67e856b21a5c048aa526250c0e092cb891276fa0",
+      "pages": 17,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-035",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-035__Heat transfer and flow characteristics of varying curvature wavy microchannels.pdf",
+      "sha256": "37a8224607ec0b6c0b12d207866bd702ed7f7c7f4c5629d5644f9cb8f900b8ce",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-036",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-036__Heat transfer and pressure drop characteristics of a new manifold microchannel heat sink with an ultra-high heat flux of 1425 W cm2 cooled by wat.pdf",
+      "sha256": "5f238956a0942060602754bb04a8100f7ed3a2b10011ee0f1aefdd690880845c",
+      "pages": 19,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": true
+    },
+    {
+      "id": "MC-037",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-037__High-performance pool boiling enhancement by synergy strategy of acoustic field and microstructure.pdf",
+      "sha256": "6dc5e74a2b07069e8dd1071be3f8c80f6de57c61f5a519022d127ba7a60ddc8e",
+      "pages": 12,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-038",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-038__Highly energy-efficient manifold microchannel for cooling electronics with a coefficient of performance over 100,000.pdf",
+      "sha256": "9b9c6d8e30cfc2b2acb825aa5f08cb700a840f8dbfb8f05f853ca5cf709034cb",
+      "pages": 28,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-039",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-039__Hotspot thermal management in microchannel heat sinks with vortex generators.pdf",
+      "sha256": "105f3910a8df43a4403b7bf316a7df12a84de6712ef114383c689c306de87077",
+      "pages": 9,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-040",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-040__Investigation of Z-type manifold microchannel cooling for ultra-high heat flux dissipation in power electronic devices.pdf",
+      "sha256": "8476143c487036ae94b431e37593a9c0b83dc8084fdfc10c57e9b873cfcef92a",
+      "pages": 15,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-041",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-041__Jet microchannel with sawtooth wall for efficient cooling of high-power electronics.pdf",
+      "sha256": "4c6e122d4de5a9ce7a2388ed4edaa2f0832fd8fb1afc381f8b332a2ad916806b",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-042",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-042__Jet-enhanced manifold microchannels for cooling electronics up to a heat flux of 3,000 W cm−2.pdf",
+      "sha256": "2a9fe072e0f8271caf5447b4c31cbaac42d4d9878e2408f8bd407541e98439ef",
+      "pages": 8,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-043",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-043__Local hotspot thermal management using metal foam integrated heat sink.pdf",
+      "sha256": "b6a4a3ee5eb561bcf2a4a6c970aca548741582e3a82611bfbee2744db781d3c2",
+      "pages": 10,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-044",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-044__Microfluidic cooling for high-heat-flux chips  Thermal-path compression, bottleneck migration and near-junction limits.pdf",
+      "sha256": "ffbf3f573c229dfebe1c5ac1682d1429d913d28e3f3c120733492cbde6c5f4da",
+      "pages": 43,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-045",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-045__Numerical investigation on hydrothermal performance of microchannel heat sink with impingement jet inlet arrays.pdf",
+      "sha256": "5f8e38aafdb3067715adfc9bbe46e5fd555aeaf908e1fa1f6035de019ae7c0a4",
+      "pages": 8,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-046",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-046__Numerical study and optimizing on micro square pin-fin heat sink for electronic cooling.pdf",
+      "sha256": "cd9fab8f6af1b1fa0db6a84a734761a89aa9d360009034fb77abbdad3150e55a",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-047",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-047__Numerical study on a new manifold ring-shaped microchannel structure for circular heat source with excellent temperature uniformity.pdf",
+      "sha256": "604fc6d4b9c6154e8bde66e8addee075eb0415b45999dd4dc62285006c0f0b04",
+      "pages": 16,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-048",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-048__Numerical study on heat transfer and flow characteristics of novel microchannel heat sinks.pdf",
+      "sha256": "dae150bd9abed9bb27d3732f4b6115f03aa9f0df5a96550ab8de1927661f1428",
+      "pages": 12,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-049",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-049__Optimization of embedded cooling in 2.5D integrated circuits through genetic algorithm-driven TSV layout design.pdf",
+      "sha256": "45abaa52f1d828b94ceb9515916eda65f81448193bea1f862da0ff7325302d00",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-050",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-050__Overall geometric optimization of hierarchic manifold microchannel heat sinks for   3000 W chips with extremely low pumping power consumption.pdf",
+      "sha256": "74546245c4265de0d2eed7cf53be7b2596fd069a7374abee63ed8acf3d35cb70",
+      "pages": 23,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-051",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-051__Performance evaluation of MEMS heat sinks having straight microchannels integrating rectangular sidewall cavities in in-line pattern.pdf",
+      "sha256": "84d7d3c1d41c213d572081d574e37a68352aeca9dd4396aef7d08a7709d9c20c",
+      "pages": 27,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-052",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-052__Synergistic enhancement and flow-thermal interaction of jet-fin hybrid microchannel heat sinks for multi-source non-uniform heat loads.pdf",
+      "sha256": "022594ec7ed4946fe3540926b0f8195ecf494ffe620e3c27b1461fe01aec2b54",
+      "pages": 23,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-053",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-053__Synergistic thermo-hydraulic performance enabled by a bio-inspired coupled design of sawtooth manifold and graded leaf-vein microchannels.pdf",
+      "sha256": "c7a94a4c28fe9eb6aa0b1012823c6c7a529c51033504e5bbe8a47f1972b30fa5",
+      "pages": 17,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-054",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-054__The influence of pin fin structure on the flow and heat transfer characteristics of the manifold microchannel heat sink.pdf",
+      "sha256": "ceabc4c36eb054a247a9b8578a265069f7cc06f553095928c0aa04bf0e730881",
+      "pages": 14,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-055",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-055__Thermal performance improvement in wavy microchannels using secondary channels.pdf",
+      "sha256": "d8d799435f85faf03c6f5c7594deaff22ed77e17d67d284de92687a478a7c2a8",
+      "pages": 21,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-056",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-056__Thermofluidic Visualization of the Capillary-driven Boiling for Design Optimization of Silicon Embedded Evaporators.pdf",
+      "sha256": "c5a775b1e9a4aaf1332e93d6b924011b2058e55fa173156cfe63a3b738ae8af6",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-057",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-057__Validation of the porous-medium approach to model interlayer-cooled 3D-chip stacks.pdf",
+      "sha256": "7c9e097aa3291c4798559ebb721d8f6b6b46db67c9a6b53856a702912f19c951",
+      "pages": 10,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-058",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-058__高热流密度硅基微通道强化换热结构及其制造技术综述.pdf",
+      "sha256": "5193896489b69666cb3e0ab4d62aa14162fb90dff0192e34753c9a2ca9010765",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-073",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-073__Biomimetic fish-fin microchannels for energy-efficient manifold liquid cooling.pdf",
+      "sha256": "76bf4dd3915e434207343ca57e653801341103401d2eeeae99f76fd56e4765e2",
+      "pages": 16,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-074",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-074__Shark-scale inspired gradient airfoil ribs for synergistic enhancement of heat transfer and reduction of flow resistance in microchannel heat sin.pdf",
+      "sha256": "f30a664e7ae1b0940d795bed558392e8de3ffd35ac324121dab38d7e5ec4ff16",
+      "pages": 16,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-075",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-075__Experimental and numerical study of micro-pin-fin heat sinks with variable density for increased temperature uniformity.pdf",
+      "sha256": "fffe5e6a6ec6398acf075e6b2bf2adaeab39de2eb94125748a9ca65f4917d6e9",
+      "pages": 11,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-076",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-076__Establishment and assessment of a variable-area parameterized model of microchannel for high temperature uniformity.pdf",
+      "sha256": "33a9640f995375ebfe8272eef3462768fe5a17ecd32d605a8f4d469cc9ac98ca",
+      "pages": 14,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    },
+    {
+      "id": "MC-077",
+      "path": "D:\\data\\微通道文献\\原始PDF\\MC-077__Multi-objective optimization of a non-uniform sinusoidal mini-channel heat sink by coupling genetic algorithm and CFD model.pdf",
+      "sha256": "544e3a349f204af7210929e5d60f6fc622de2fe283ac3d222fe1f32e5cef86d8",
+      "pages": 13,
+      "encrypted": false,
+      "page_tree_readable": true,
+      "first_last_text_validated": true,
+      "all_page_text_checked": true,
+      "evidence_reextracted": false
+    }
+  ],
+  "moves": [
+    {
+      "source": "D:\\data\\微通道文献\\A comprehensive review on microchannel heat sinks for electronics cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-001__A comprehensive review on microchannel heat sinks for electronics cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Enhanced flow boiling heat transfer through synergistic effects of laser-ablated surface and open microchannels.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-002__Enhanced flow boiling heat transfer through synergistic effects of laser-ablated surface and open microchannels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Experimental and numerical study of CVD diamond microchannel cooling for high heat flux heterogeneous material-integrated dies.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-003__Experimental and numerical study of CVD diamond microchannel cooling for high heat flux heterogeneous material-integrated dies.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\HFE-7100 flow boiling in open microchannels with grid-patterned multiscale textures.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-004__HFE-7100 flow boiling in open microchannels with grid-patterned multiscale textures.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Hotspot thermal management using a microchannel-pinfin hybrid heat sink.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-005__Hotspot thermal management using a microchannel-pinfin hybrid heat sink.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Microchannel heat sinks for hotspot thermal management achieving minimal pressure drop and maximal thermal performance.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-006__Microchannel heat sinks for hotspot thermal management  achieving minimal pressure drop and maximal thermal performance.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Study on flow non-uniformity and design of tapered manifold inlet structure of manifold microchannels.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-007__Study on flow non-uniformity and design of tapered manifold inlet structure of manifold microchannels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\A hierarchical manifold microchannel heat sink array for high-heat-flux two-phase cooling of electronics.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-009__A hierarchical manifold microchannel heat sink array for high-heat-flux two-phase cooling of electronics.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\A reduced-order model-based genetic algorithm for optimizing pin-fin arrays in multi-source electronics cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-010__A reduced-order model-based genetic algorithm for optimizing pin–fin arrays in multi-source electronics cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\A sensitivity analysis and computational assessment of topology optimization heat sink channel using a power law model.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-011__A sensitivity analysis and computational assessment of topology optimization heat sink channel using a power law model.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\A_3D-IC_Technology_with_Integrated_Microchannel_Cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-012__A 3D-IC Technology with Integrated Microchannel Cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\An additively manufactured manifold-microchannel heat sink for high-heat flux cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-013__An additively manufactured manifold-microchannel heat sink for high-heat flux cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Co-designing electronics with microfluidics for more sustainable cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-014__Co-designing electronics with microfluidics for more sustainable cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Constructal evolutionary design of liquid cooling heat sink embedded in 3D-IC based on deep neural network prediction.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-015__Constructal evolutionary design of liquid cooling heat sink embedded in 3D-IC based on deep neural network prediction.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Cool-3D_An_End-to-End_Thermal-Aware_Framework_for_Early-Phase_Design_Space_Exploration_of_Microfluidic-Cooled_3DICs.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-016__Cool-3D  An End-to-End Thermal-Aware Framework for Early-Phase Design Space Exploration of Microfluidic-Cooled 3DICs.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Data-driven multi-fidelity topology design for enhancing the cooling performance of embedded liquid-cooled microchannels.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-017__Data-driven multi-fidelity topology design for enhancing the cooling performance of embedded liquid-cooled microchannels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Data-driven multifidelity topology design with multi-channel variational auto-encoder for concurrent optimization of multiple design variable fields.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-018__Data-driven multifidelity topology design with multi-channel variational auto-encoder for concurrent optimization of multiple design variable fie.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Design and thermofluidic performance of multi-level embedded cooling structures for multi-chip array electronic systems.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-019__Design and thermofluidic performance of multi-level embedded cooling structures for multi-chip array electronic systems.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Design_Fabrication_and_Characterization_of_a_Compact_Hierarchical_Manifold_Microchannel_Heat_Sink_Array_for_Two-Phase_Cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-020__Design, fabrication and characterization of a compact hierarchical manifold microchannel heat sink array for two-phase cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Effect of filling ratio on a self-driven manifold microchannel heat sink.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-021__Effect of filling ratio on a self-driven manifold microchannel heat sink.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Embedded cooling method with configurability and replaceability for.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-022__Embedded cooling method with configurability and replaceability for multi-chip electronic devices.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Embedded cooling with 3D manifold for vehicle power electronics application Single phase thermal fluid performance.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-023__Embedded cooling with 3D manifold for vehicle power electronics application  Single-phase thermal-fluid performance.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Embedded microchannel enabling efficient thermoelectric cooler for high-heat-flux hotspot.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-024__Embedded microchannel enabling efficient thermoelectric cooler for high-heat-flux hotspot.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Enabling record-high heat flux in wide-bandgap electronics via in-chip microfluidic cooling on diamond substrates.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-025__Enabling record-high heat flux in wide-bandgap electronics via in-chip microfluidic cooling on diamond substrates.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Energy-efficient thermal management of 11 kW multi-chip arrays via biomimetic hierarchical embedded liquid cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-026__Energy-efficient thermal management of 11 kW multi-chip arrays via biomimetic hierarchical embedded liquid cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Enhancing Liquid–Vapor Phase-Change Heat Transfer with Micro Nano-Structured Surfaces.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-027__Enhancing Liquid–Vapor Phase-Change Heat Transfer with Micro Nano-Structured Surfaces.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Experimental investigation on thermal-hydraulic performance of manifold microchannel with pin-fins for ultra-high heat flux cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-028__Experimental investigation on thermal-hydraulic performance of manifold microchannel with pin-fins for ultra-high heat flux cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Experimental investigations on enhancing flow boiling heat transfer in straight and wavy copper foam fin microchannels.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-029__Experimental investigations on enhancing flow boiling heat transfer in straight and wavy copper foam fin microchannels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Experimental study of a SiC manifold microchannel heat sink under background and hotspot heating scenarios at ultra-high heat flux.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-030__Experimental study of a SiC manifold microchannel heat sink under background and hotspot heating scenarios at ultra-high heat flux.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Experimental study of embedded manifold staggered pin-fin microchannel heat sink.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-031__Experimental study of embedded manifold staggered pin-fin microchannel heat sink.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Flow Boiling Heat Transfer in a Lotus Leaf-Inspired Microchannel Heat Sink with Enhanced Critical Heat Flux for Large Area Chips.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-032__Flow boiling heat transfer in a lotus leaf-inspired microchannel heat sink with enhanced critical heat flux for large area chips.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Flow boiling in novel radial microchannels for cooling of electronic devices.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-033__Flow boiling in novel radial microchannels for cooling of electronic devices and modules of annular temperature distribution.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Heat dissipation and fluid flow in microchannel heat sink equipped with semielliptical pinfin structures A numerical study.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-034__Heat dissipation and fluid flow in micro-channel heat sink equipped with semi-elliptical pin-fin structures  A numerical study.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Heat transfer and flow characteristics of varying curvature wavy microchannels.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-035__Heat transfer and flow characteristics of varying curvature wavy microchannels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Heat transfer and pressure drop characteristics of a new manifold.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-036__Heat transfer and pressure drop characteristics of a new manifold microchannel heat sink with an ultra-high heat flux of 1425 W cm2 cooled by wat.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\High-performance pool boiling enhancement by synergy strategy of acoustic field and microstructure.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-037__High-performance pool boiling enhancement by synergy strategy of acoustic field and microstructure.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Highly energy-efficient manifold microchannel for cooling electronics with a coefficient of performance over 100,000.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-038__Highly energy-efficient manifold microchannel for cooling electronics with a coefficient of performance over 100,000.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Hotspot thermal management in microchannel heat sinks with .pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-039__Hotspot thermal management in microchannel heat sinks with vortex generators.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Investigation of Z-type manifold microchannel cooling for ultra-high heat flux dissipation in power electronic devices.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-040__Investigation of Z-type manifold microchannel cooling for ultra-high heat flux dissipation in power electronic devices.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Jet microchannel with sawtooth wall for efficient cooling of high-power electronics.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-041__Jet microchannel with sawtooth wall for efficient cooling of high-power electronics.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Jet-enhanced manifold microchannels for cooling electronics up to a heat flux of 3,000 W cm−2.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-042__Jet-enhanced manifold microchannels for cooling electronics up to a heat flux of 3,000 W cm−2.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Local hotspot thermal management using metal foam integrated heat sink.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-043__Local hotspot thermal management using metal foam integrated heat sink.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Microfluidic cooling for high-heat-flux chips Thermal-path compression, bottleneck migration and near-junction limits.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-044__Microfluidic cooling for high-heat-flux chips  Thermal-path compression, bottleneck migration and near-junction limits.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Numerical investigation on hydrothermal performance of microchannel heat sink with impingement jet inlet arrays.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-045__Numerical investigation on hydrothermal performance of microchannel heat sink with impingement jet inlet arrays.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Numerical study and optimizing on micro square pin-fin heat sink for electronic cooling.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-046__Numerical study and optimizing on micro square pin-fin heat sink for electronic cooling.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Numerical study on a new manifold ring-shaped microchannel structure for circular heat source with excellent temperature uniformity.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-047__Numerical study on a new manifold ring-shaped microchannel structure for circular heat source with excellent temperature uniformity.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Numerical study on heat transfer and flow characteristics of novel microchannel heat sinks.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-048__Numerical study on heat transfer and flow characteristics of novel microchannel heat sinks.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Optimization of Embedded Cooling in 2.5 D Integrated Circuits through Genetic Algorithm-Driven TSV Layout Design.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-049__Optimization of embedded cooling in 2.5D integrated circuits through genetic algorithm-driven TSV layout design.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Overall geometric optimization of hierarchic manifold microchannel heat sinks for  3000 W chips with extremely low pumping power consumption.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-050__Overall geometric optimization of hierarchic manifold microchannel heat sinks for   3000 W chips with extremely low pumping power consumption.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Performance evaluation of MEMS heat sinks having straight microchannels integrating rectangular sidewall cavities in in-line pattern.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-051__Performance evaluation of MEMS heat sinks having straight microchannels integrating rectangular sidewall cavities in in-line pattern.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Synergistic enhancement and flow-thermal interaction of jet-fin hybrid microchannel heat sinks for multi-source non-uniform heat loads.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-052__Synergistic enhancement and flow-thermal interaction of jet-fin hybrid microchannel heat sinks for multi-source non-uniform heat loads.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Synergistic thermo-hydraulic performance enabled by a bio-inspired coupled design of sawtooth manifold and graded leaf-vein microchannels.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-053__Synergistic thermo-hydraulic performance enabled by a bio-inspired coupled design of sawtooth manifold and graded leaf-vein microchannels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\The influence of pin fin structure on the flow and heat transfer characteristics of the manifold microchannel heat sink.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-054__The influence of pin fin structure on the flow and heat transfer characteristics of the manifold microchannel heat sink.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Thermal performance improvement in wavy microchannels using secondary channels(科研通-ablesci.com).pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-055__Thermal performance improvement in wavy microchannels using secondary channels.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Thermofluidic Visualization of the Capillary-driven Boiling for Design Optimization of Silicon Embedded Evaporators.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-056__Thermofluidic Visualization of the Capillary-driven Boiling for Design Optimization of Silicon Embedded Evaporators.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\VALIDATION OF THE POROUS-MEDIUM APPROACH TO .pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-057__Validation of the porous-medium approach to model interlayer-cooled 3D-chip stacks.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\高热流密度硅基微通道强化换热结构及其制造技术综述_苗文杰.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-058__高热流密度硅基微通道强化换热结构及其制造技术综述.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "C:\\Users\\PC\\Downloads\\Biomimetic fish-fin microchannels for energy-efficient manifold.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-073__Biomimetic fish-fin microchannels for energy-efficient manifold liquid cooling.pdf",
+      "legacy_path": "download input retained until full audit"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Shark-scale inspired gradient airfoil ribs for synergistic enhancement of heat transfer and reduction of flow resistance in microchannel heat sinks.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-074__Shark-scale inspired gradient airfoil ribs for synergistic enhancement of heat transfer and reduction of flow resistance in microchannel heat sin.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "D:\\data\\微通道文献\\Experimental and numerical study of micro-pin-fin heat sinks with variable density for increased temperature uniformity.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-075__Experimental and numerical study of micro-pin-fin heat sinks with variable density for increased temperature uniformity.pdf",
+      "legacy_path": "same-file hard link"
+    },
+    {
+      "source": "C:\\Users\\PC\\Downloads\\Establishment and assessment of a variable-area parameterized model of microchannel for high temperature uniformity.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-076__Establishment and assessment of a variable-area parameterized model of microchannel for high temperature uniformity.pdf",
+      "legacy_path": "download input retained until full audit"
+    },
+    {
+      "source": "C:\\Users\\PC\\Downloads\\Multi-objective optimization of a non-uniform sinusoidal mini-channel heat sink by coupling genetic algorithm and CFD model.pdf",
+      "canonical": "D:\\data\\微通道文献\\原始PDF\\MC-077__Multi-objective optimization of a non-uniform sinusoidal mini-channel heat sink by coupling genetic algorithm and CFD model.pdf",
+      "legacy_path": "download input retained until full audit"
+    }
+  ],
+  "note": "Legacy D-root PDF paths are hard links to canonical originals where moved; they do not duplicate storage. Unindexed root PDFs and archives remain untouched."
+}

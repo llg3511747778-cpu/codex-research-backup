@@ -1,0 +1,12 @@
+{
+  "files_with_redactions": {
+    "C:\\Users\\PC\\.codex\\skills\\labarchive-integration\\scripts\\setup_config.py": 1,
+    "C:\\Users\\PC\\.codex\\skills\\nature-downloader\\tests\\unit\\credentials.test.mjs": 2,
+    "C:\\Users\\PC\\.codex\\skills\\nature-downloader\\tests\\unit\\manifest.test.mjs": 1,
+    "C:\\Users\\PC\\.codex\\skills\\nature-downloader\\tests\\unit\\publisher-providers.test.mjs": 1,
+    "C:\\Users\\PC\\.codex\\skills\\nature-downloader\\tests\\unit\\routing.test.mjs": 2,
+    "C:\\Users\\PC\\.codex\\skills\\qiskit\\references\\setup.md": 1
+  },
+  "total": 8,
+  "note": "原文件未改动；仅备份副本替换可识别凭据。无匹配不构成绝对无敏感信息保证。"
+}

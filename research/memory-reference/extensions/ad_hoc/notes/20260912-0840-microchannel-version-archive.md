@@ -1,0 +1,3 @@
+# Microchannel simulation archive convention
+
+The user's microchannel ANSYS/Fluent simulation archive is now rooted at `D:\Codex\Microchannel_Fluent_Archive`. Store future reproducible simulation milestones in sequential folders named `V1_...`, `V2_...`, `V3_...`, and so on. Each version folder must contain a `README.md` describing its purpose, boundary conditions, changes from the prior version, results, file layout, and unresolved limitations. Keep common literature and parameter evidence under `00_References`; do not retain failed launches, wrong-boundary cases, transient video-frame caches, or other disposable intermediates in the archive.

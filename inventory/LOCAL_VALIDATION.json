@@ -1,0 +1,21 @@
+{
+  "source_platform": "Windows",
+  "actual_mac_runtime_tested": false,
+  "archive_hash_verified": true,
+  "macOS_case_unicode_collision_check": "passed",
+  "research_skills_restore_test": 20,
+  "repeat_restore_no_change_test": 20,
+  "windows_only_skills_skipped": [
+    "ansys-fluent-microchannel",
+    "ansys-manifold-mesh-quality",
+    "ansys-partition-for-hex-mesh",
+    "origin-scientific-plotting",
+    "solidworks-microchannel-modeling"
+  ],
+  "conversation_exports": 163,
+  "visible_messages": 5946,
+  "raw_sessions_included": false,
+  "source_sessions_modified": false,
+  "blocked_file_names_present": [],
+  "note": "Restore checks executed in an isolated Windows directory. Run the documented smoke tests on the actual Mac before calling a workflow Mac-ready."
+}

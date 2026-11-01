@@ -1,0 +1,167 @@
+# 本地对话索引
+
+导出快照：2026-11-01T08:09:13.294954+08:00。共 163 份。
+
+- [https://github.com/Yuan1z0825/nature-skills，从该网址中为你自己@GitHu…](../conversations/markdown/01a08a08-7740-7993-93f7-b99b7eb861ee.md)（14 条可见消息）
+- [本地对话 01a08a0d-7f53-7a40-9f8f-5cafb5de6d1e](../conversations/markdown/01a08a0d-7f53-7a40-9f8f-5cafb5de6d1e.md)（7 条可见消息）
+- [https://github.com/K-Dense-AI/scientific-agent-skills从这个网站为…](../conversations/markdown/01a08a19-6e76-7e01-81d7-d6af9cb6098d.md)（15 条可见消息）
+- [本地对话 01a08a1c-3d71-7ed1-b648-7c9bc0308c1c](../conversations/markdown/01a08a1c-3d71-7ed1-b648-7c9bc0308c1c.md)（5 条可见消息）
+- [本地对话 01a08a21-ddb9-7580-9a6d-44fd28fa099a](../conversations/markdown/01a08a21-ddb9-7580-9a6d-44fd28fa099a.md)（9 条可见消息）
+- [尝试自主仿真](../conversations/markdown/01a08e20-20ef-7903-a414-515f8c0f0da4.md)（196 条可见消息）
+- [本地对话 01a08e5b-5510-7e32-8719-66406a4e3eff](../conversations/markdown/01a08e5b-5510-7e32-8719-66406a4e3eff.md)（15 条可见消息）
+- [本地对话 01a08e68-c5a6-7412-890c-56daecedfdd1](../conversations/markdown/01a08e68-c5a6-7412-890c-56daecedfdd1.md)（3 条可见消息）
+- [本地对话 01a08f86-33f2-7fd2-ac55-ce03a3eb02df](../conversations/markdown/01a08f86-33f2-7fd2-ac55-ce03a3eb02df.md)（25 条可见消息）
+- [本地对话 01a08fa8-d78c-72a3-b700-14e48972f517](../conversations/markdown/01a08fa8-d78c-72a3-b700-14e48972f517.md)（43 条可见消息）
+- [本地对话 01a0913e-5e3c-70d0-ab4e-62ac4fbf0651](../conversations/markdown/01a0913e-5e3c-70d0-ab4e-62ac4fbf0651.md)（17 条可见消息）
+- [本地对话 01a092f3-ceb5-7ed1-bbed-ebbefb2da362](../conversations/markdown/01a092f3-ceb5-7ed1-bbed-ebbefb2da362.md)（5 条可见消息）
+- [本地对话 01a092fc-e4f7-7273-959d-cd1217162dd8](../conversations/markdown/01a092fc-e4f7-7273-959d-cd1217162dd8.md)（15 条可见消息）
+- [本地对话 01a09306-13a2-7e13-bb3f-1ca018f86a11](../conversations/markdown/01a09306-13a2-7e13-bb3f-1ca018f86a11.md)（11 条可见消息）
+- [本地对话 01a09317-488d-7d71-82a6-76aa97e253d5](../conversations/markdown/01a09317-488d-7d71-82a6-76aa97e253d5.md)（3 条可见消息）
+- [本地对话 01a0931c-f2ad-7121-9f7e-0928904ba848](../conversations/markdown/01a0931c-f2ad-7121-9f7e-0928904ba848.md)（27 条可见消息）
+- [本地对话 01a0932b-f204-7043-abe2-feb1805fc137](../conversations/markdown/01a0932b-f204-7043-abe2-feb1805fc137.md)（39 条可见消息）
+- [本地对话 01a09355-8a19-7a43-acdd-1f4ebc18ea7e](../conversations/markdown/01a09355-8a19-7a43-acdd-1f4ebc18ea7e.md)（2 条可见消息）
+- [本地对话 01a09355-ae1a-7ef0-9a58-917dca6b4f97](../conversations/markdown/01a09355-ae1a-7ef0-9a58-917dca6b4f97.md)（2 条可见消息）
+- [本地对话 01a09412-f47b-7562-b48d-ed27178cca3b](../conversations/markdown/01a09412-f47b-7562-b48d-ed27178cca3b.md)（29 条可见消息）
+- [本地对话 01a0949c-da6c-7640-b1fd-1cce2c4d9578](../conversations/markdown/01a0949c-da6c-7640-b1fd-1cce2c4d9578.md)（19 条可见消息）
+- [本地对话 01a094e2-123a-78c0-a2b3-26f1fee987fa](../conversations/markdown/01a094e2-123a-78c0-a2b3-26f1fee987fa.md)（13 条可见消息）
+- [本地对话 01a094ef-9157-72b1-8461-c3a5d4592efd](../conversations/markdown/01a094ef-9157-72b1-8461-c3a5d4592efd.md)（45 条可见消息）
+- [本地对话 01a09666-e417-7533-9621-456449718eee](../conversations/markdown/01a09666-e417-7533-9621-456449718eee.md)（28 条可见消息）
+- [本地对话 01a09853-e017-75f0-a1ed-9984585f663b](../conversations/markdown/01a09853-e017-75f0-a1ed-9984585f663b.md)（32 条可见消息）
+- [本地对话 01a0985a-9bf0-71b3-8ec3-d52cbcc5167f](../conversations/markdown/01a0985a-9bf0-71b3-8ec3-d52cbcc5167f.md)（9 条可见消息）
+- [本地对话 01a0985d-73d1-70a1-849f-b6fc18144b59](../conversations/markdown/01a0985d-73d1-70a1-849f-b6fc18144b59.md)（27 条可见消息）
+- [本地对话 01a09865-4744-7511-bbdf-259d10c9ec1b](../conversations/markdown/01a09865-4744-7511-bbdf-259d10c9ec1b.md)（7 条可见消息）
+- [本地对话 01a09880-a02b-7563-beea-097183d53365](../conversations/markdown/01a09880-a02b-7563-beea-097183d53365.md)（17 条可见消息）
+- [审稿视角分析文献 通过你学会的技能，利用查询文献的方式对目前常见的歧管微通道优化散热的结构进行调研以及分析，尝试通过对…](../conversations/markdown/01a09eb5-b853-7c40-91d1-b3b620d2e055.md)（15 条可见消息）
+- [本地对话 01a09ec4-92d0-7c11-ab49-465c7ffc19a4](../conversations/markdown/01a09ec4-92d0-7c11-ab49-465c7ffc19a4.md)（9 条可见消息）
+- [Use $nature-academic-search to search for relevant literatu…](../conversations/markdown/01a09edb-91ba-72f1-b53f-6ddd30bbf254.md)（12 条可见消息）
+- [本地对话 01a09edf-e6f9-7703-a637-b2559eae6e03](../conversations/markdown/01a09edf-e6f9-7703-a637-b2559eae6e03.md)（13 条可见消息）
+- [如果希望你根据我的微通道仿真结果搭建一个ANN神经网络，初步计划提供100个样本，你会怎么做，给出你的计划](../conversations/markdown/01a0a32f-76c2-70f0-8520-56e97fdcbaa5.md)（25 条可见消息）
+- [在进行fluent的VOF仿真的时候残差一直震荡是什么情况](../conversations/markdown/01a0a462-0116-7273-9038-a75e03b07459.md)（5 条可见消息）
+- ["D:\data\work\26 9 15\i12a9-ws-3D"分析我电脑中这个文件夹中的文件，我应该如何正常打开…](../conversations/markdown/01a0a49f-3931-7033-917b-f7dbdffe76a9.md)（31 条可见消息）
+- [以一个审稿人的角度，你认为如果是研究歧管微通道+变密度针翅，结合ANN+NSGA2研究方法，参考这篇文献的叙述方法，包…](../conversations/markdown/01a0a7ca-02fd-7473-a322-99d97c841847.md)（42 条可见消息）
+- [本地对话 01a0a7cf-0527-7721-863d-1a9af01eb48d](../conversations/markdown/01a0a7cf-0527-7721-863d-1a9af01eb48d.md)（13 条可见消息）
+- [本地对话 01a0a839-4c42-7c52-8070-7f6e8091802d](../conversations/markdown/01a0a839-4c42-7c52-8070-7f6e8091802d.md)（3 条可见消息）
+- [本地对话 01a0a8f6-c031-78b3-87dc-6b282c033ab7](../conversations/markdown/01a0a8f6-c031-78b3-87dc-6b282c033ab7.md)（11 条可见消息）
+- [本地对话 01a0a900-b254-7901-bbaf-07e6c8dbd569](../conversations/markdown/01a0a900-b254-7901-bbaf-07e6c8dbd569.md)（27 条可见消息）
+- [参考这个文献图片的呈现方式，把"D:\data\micro channel\channel with manifold…](../conversations/markdown/01a0c1d0-d2c8-7e52-be4f-4b8dcf47c4d1.md)（64 条可见消息）
+- [本地对话 01a0c1dc-03b5-71d3-9b34-7e0cb31491b1](../conversations/markdown/01a0c1dc-03b5-71d3-9b34-7e0cb31491b1.md)（37 条可见消息）
+- [本地对话 01a0c1fa-6f8e-7e32-af86-427cf4a6f22b](../conversations/markdown/01a0c1fa-6f8e-7e32-af86-427cf4a6f22b.md)（23 条可见消息）
+- [本地对话 01a0c211-1fce-7143-893a-db443df56ef7](../conversations/markdown/01a0c211-1fce-7143-893a-db443df56ef7.md)（3 条可见消息）
+- ["D:\data\micro channel\channel with manifold\yaner shang\ch…](../conversations/markdown/01a0ed96-65a3-7f61-b96e-2f221b07f854.md)（118 条可见消息）
+- [本地对话 01a0ed9a-b127-71c0-8120-e718654e03f8](../conversations/markdown/01a0ed9a-b127-71c0-8120-e718654e03f8.md)（15 条可见消息）
+- [本地对话 01a0edb6-15ab-73d3-8c65-6f1b0058fec6](../conversations/markdown/01a0edb6-15ab-73d3-8c65-6f1b0058fec6.md)（7 条可见消息）
+- [本地对话 01a0edcb-6e44-7963-a2a8-8ee183dbb591](../conversations/markdown/01a0edcb-6e44-7963-a2a8-8ee183dbb591.md)（3 条可见消息）
+- [本地对话 01a0edd4-82c4-7fa1-90dd-56a7a268cc14](../conversations/markdown/01a0edd4-82c4-7fa1-90dd-56a7a268cc14.md)（29 条可见消息）
+- [本地对话 01a0edf2-d69a-7ec3-a6d6-8585cf3bb921](../conversations/markdown/01a0edf2-d69a-7ec3-a6d6-8585cf3bb921.md)（29 条可见消息）
+- [本地对话 01a0ee01-41aa-7421-8857-818b7aef3e75](../conversations/markdown/01a0ee01-41aa-7421-8857-818b7aef3e75.md)（5 条可见消息）
+- [本地对话 01a0ee10-ea0e-7ee0-b43e-342de6444238](../conversations/markdown/01a0ee10-ea0e-7ee0-b43e-342de6444238.md)（7 条可见消息）
+- [本地对话 01a0ee6e-5150-7202-8351-df93f539280c](../conversations/markdown/01a0ee6e-5150-7202-8351-df93f539280c.md)（19 条可见消息）
+- [本地对话 01a0ef81-cb2a-76d2-893e-274885a4753f](../conversations/markdown/01a0ef81-cb2a-76d2-893e-274885a4753f.md)（13 条可见消息）
+- [本地对话 01a0ef89-5a43-76f1-9463-7d9e3051619d](../conversations/markdown/01a0ef89-5a43-76f1-9463-7d9e3051619d.md)（9 条可见消息）
+- [本地对话 01a0ef92-0663-77e3-be6d-83f827bd4e65](../conversations/markdown/01a0ef92-0663-77e3-be6d-83f827bd4e65.md)（11 条可见消息）
+- [本地对话 01a0efa4-a2aa-71d1-af65-892547631d48](../conversations/markdown/01a0efa4-a2aa-71d1-af65-892547631d48.md)（13 条可见消息）
+- [目前我打算进行有关于嵌入式微通道研究的开题报告，结合资料库中的有关文献，且自己进行相关近5年文献搜寻，要求至少为二区文…](../conversations/markdown/01a11425-8149-7760-a2e7-f4fc39a0e529.md)（234 条可见消息）
+- [Guardian review](../conversations/markdown/01a11429-48ec-7de1-a3d5-0c0c8db8191a.md)（17 条可见消息）
+- [Guardian review](../conversations/markdown/01a11435-a9c1-7401-af05-98e251f9d0a0.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a1143b-efc9-7741-9492-5d12eccf60e4.md)（7 条可见消息）
+- [Guardian review](../conversations/markdown/01a114c5-fbf6-7832-a0f1-a2a53862a111.md)（17 条可见消息）
+- [Guardian review](../conversations/markdown/01a118dd-2fd1-7833-aea0-28cba117c437.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a1190b-1a2f-7450-a805-f22617d6b454.md)（9 条可见消息）
+- [Guardian review](../conversations/markdown/01a11911-e323-7713-8095-f97436b62017.md)（23 条可见消息）
+- [Guardian review](../conversations/markdown/01a11943-efc9-7242-97ef-8ae9b322f1e1.md)（105 条可见消息）
+- [Guardian review](../conversations/markdown/01a11984-e6a9-7c32-8fbe-410d065a182c.md)（10 条可见消息）
+- [Guardian review](../conversations/markdown/01a11a08-139f-7623-aed4-c8a72b909a7d.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a11a17-e99e-7180-8793-f3ef3ed6fa8d.md)（15 条可见消息）
+- [Guardian review](../conversations/markdown/01a11a24-7556-7583-96b0-f7309fc2d2e9.md)（7 条可见消息）
+- [Guardian review](../conversations/markdown/01a11a2d-9434-7782-b83a-edade73c5134.md)（9 条可见消息）
+- [Guardian review](../conversations/markdown/01a11a73-1603-7e61-9ebb-b5c0e243113f.md)（7 条可见消息）
+- [Guardian review](../conversations/markdown/01a11aa5-7d1d-7aa3-ae4f-27786b3eef04.md)（5 条可见消息）
+- [Guardian review](../conversations/markdown/01a11bd9-89ca-7552-8a54-201f962dff6b.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a11be1-a5c3-7ca0-945a-9ccbe6886e7b.md)（7 条可见消息）
+- [Guardian review](../conversations/markdown/01a11c04-d961-7010-b618-342808d9ee8a.md)（21 条可见消息）
+- [Guardian review](../conversations/markdown/01a11c1d-b543-7101-b672-d4cbedad6221.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a11c23-51f0-77f2-990a-dff391d7a190.md)（11 条可见消息）
+- [Guardian review](../conversations/markdown/01a11c4d-9508-7570-86a5-e04218f7d76e.md)（7 条可见消息）
+- [Guardian review](../conversations/markdown/01a11f2e-f0a4-7990-b857-b6c439e39262.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a11f47-7a14-79e1-80c4-b187a573bf7e.md)（25 条可见消息）
+- [Guardian review](../conversations/markdown/01a11f55-20ab-7e10-b698-6f739fd9b21f.md)（27 条可见消息）
+- [Guardian review](../conversations/markdown/01a11fe1-a1e1-7403-979d-2f7aecebd2d0.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a11fe7-ea28-71c1-81de-4d232413b9ee.md)（9 条可见消息）
+- [Guardian review](../conversations/markdown/01a12047-9ad1-7042-a17d-038a58273beb.md)（67 条可见消息）
+- [Guardian review](../conversations/markdown/01a12073-6177-7030-adef-4da43a7fef92.md)（109 条可见消息）
+- [Guardian review](../conversations/markdown/01a120d7-864d-7770-9a94-518b87bd150b.md)（45 条可见消息）
+- [Guardian review](../conversations/markdown/01a1211b-ef97-75c2-bdf8-1e4eb7965ee4.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a1211c-2577-7262-a72e-9057534ae51d.md)（0 条可见消息）
+- [目前你能够读取资料库里面的文件吗](../conversations/markdown/01a1211d-a439-76a1-82b5-5221378ec621.md)（42 条可见消息）
+- [Guardian review](../conversations/markdown/01a12125-586d-7963-b483-8aea97c03d93.md)（37 条可见消息）
+- [Guardian review](../conversations/markdown/01a12141-984e-7992-88cd-3ba5ad7e627f.md)（9 条可见消息）
+- [Guardian review](../conversations/markdown/01a12148-1bcc-7391-983d-9d582259558b.md)（33 条可见消息）
+- [Guardian review](../conversations/markdown/01a125ff-2a05-7b33-b0d4-e9b2a36530e7.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a125ff-462a-74d1-a2aa-530c9a1c5919.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a12602-9db9-7f51-9c22-0a7a6b237b41.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a12603-8f57-7543-aeb4-13c50b7b67bc.md)（5 条可见消息）
+- [Guardian review](../conversations/markdown/01a12644-8468-77b1-88d8-fbc25615cc45.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a12646-5430-7051-9966-d51108698bca.md)（9 条可见消息）
+- [请接续我的微通道 CFD 研究，先完成已有模型的复现核查和结果诊断。 一、当前任务 读取这两个本地目录： D:\dat…](../conversations/markdown/01a12689-5240-7082-a2be-730224da8aba.md)（30 条可见消息）
+- [Guardian review](../conversations/markdown/01a1268f-2f9e-75d3-bdec-b30d850c5ca8.md)（21 条可见消息）
+- [Guardian review](../conversations/markdown/01a126c0-3e6c-7f32-bc70-70943a5cefa7.md)（5 条可见消息）
+- [Guardian review](../conversations/markdown/01a126d5-b7d7-73a2-b1c5-5246a8c19e86.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a126e1-5165-7513-8bca-f201cebd38cc.md)（35 条可见消息）
+- [Guardian review](../conversations/markdown/01a126f1-1943-7112-a349-ecddd60f2ccf.md)（15 条可见消息）
+- [Guardian review](../conversations/markdown/01a128d2-1a8c-7b00-b251-b751932bee21.md)（37 条可见消息）
+- [Guardian review](../conversations/markdown/01a12b5e-b0fd-7161-bf7d-816e522e8561.md)（5 条可见消息）
+- [Guardian review](../conversations/markdown/01a12b65-d93d-72d0-858a-a49ba1dc57b8.md)（33 条可见消息）
+- [Guardian review](../conversations/markdown/01a12b9b-0b29-78f1-b378-378268719539.md)（28 条可见消息）
+- [Guardian review](../conversations/markdown/01a12bd1-908b-7881-ae7b-ce7b0b1e1da1.md)（9 条可见消息）
+- [Guardian review](../conversations/markdown/01a12bda-82a2-7212-9156-2edd3d1369c3.md)（15 条可见消息）
+- [Guardian review](../conversations/markdown/01a12bf2-7fd1-7a60-9157-a44de7f33f2d.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a12bf6-b007-7d90-8fbd-86e35461c456.md)（15 条可见消息）
+- [Guardian review](../conversations/markdown/01a137c1-5166-7401-a607-4506dbdaed1b.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a137d9-885e-7fb3-ac73-b7cfc7391354.md)（51 条可见消息）
+- [Guardian review](../conversations/markdown/01a137dc-39d3-7451-b3da-63ed369de35d.md)（0 条可见消息）
+- [请先完整读取《》，作为本次工作的研究背景。继续其中的模型核查任务，优先检查“50 juchi”和“50 zhi”，核对…](../conversations/markdown/01a137e2-bbe3-7c00-b385-abcb7547722b.md)（8 条可见消息）
+- [Guardian review](../conversations/markdown/01a137e5-2af9-7910-a56f-2ed77c72c430.md)（31 条可见消息）
+- [请先完整阅读“”，继续其中的仿真诊断任务。先验证文档中三个 Windows 路径能否读取，列出实际 Fluent 文件…](../conversations/markdown/01a13811-f00b-72f3-b554-a54fddcf5b8f.md)（84 条可见消息）
+- [Guardian review](../conversations/markdown/01a13814-1a41-7d91-b60a-3cdc1f330645.md)（131 条可见消息）
+- [Guardian review](../conversations/markdown/01a13933-d616-79d0-ab59-28510d6be789.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a13933-ead4-7123-b4b4-526fdf6bf653.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a13a9e-587d-7c62-88aa-905fd021550f.md)（21 条可见消息）
+- [Guardian review](../conversations/markdown/01a13d00-bb75-7b33-965d-a7555ae8c28f.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a13d0a-8db6-7b81-9e48-0fc590e212a5.md)（81 条可见消息）
+- [Guardian review](../conversations/markdown/01a13d4e-9d33-75c1-a5ac-3edbb7ecb447.md)（65 条可见消息）
+- [Guardian review](../conversations/markdown/01a13d50-e2c3-7f40-834f-04db6c11eb6d.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a13e09-110d-7ac2-abe4-21a0084b802e.md)（69 条可见消息）
+- [Guardian review](../conversations/markdown/01a13e51-4fa6-7f21-bf9d-50f8e8ac297b.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a13e6c-1839-7572-ad71-66f890528972.md)（61 条可见消息）
+- [Guardian review](../conversations/markdown/01a13ec8-048d-7473-a3aa-58eddd4fe786.md)（15 条可见消息）
+- [Guardian review](../conversations/markdown/01a14363-81c4-7cf3-bb40-76eff2995cef.md)（3 条可见消息）
+- [Guardian review](../conversations/markdown/01a1448d-131b-7b21-bb91-f9dac116cd9f.md)（37 条可见消息）
+- [Guardian review](../conversations/markdown/01a148f4-070d-7192-9d7e-5764e55d4da6.md)（31 条可见消息）
+- [Guardian review](../conversations/markdown/01a1492c-7ed3-7182-80a6-06276da2d05c.md)（20 条可见消息）
+- [Guardian review](../conversations/markdown/01a149e0-f2ee-7061-999e-3382f729d5c7.md)（35 条可见消息）
+- [Guardian review](../conversations/markdown/01a14a77-0644-7d61-9a22-5f1c8325d21f.md)（9 条可见消息）
+- [Guardian review](../conversations/markdown/01a14af9-622c-73b0-be46-ec2f8f4d88b7.md)（7 条可见消息）
+- [Guardian review](../conversations/markdown/01a15495-9d33-7730-ab50-2d448b124689.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a15496-b751-7f62-b50f-0c35f3e15dcb.md)（0 条可见消息）
+- ["C:\Users\PC\Desktop\klayout\mc.dxf" "C:\Users\PC\Desktop\k…](../conversations/markdown/01a1590b-f853-7912-aa96-afc42708204d.md)（39 条可见消息）
+- [fluent 全流程 (2)](../conversations/markdown/01a1598e-a35a-7932-8a16-17271d2507e1.md)（1504 条可见消息）
+- [Guardian review](../conversations/markdown/01a16831-8ba3-7233-89e1-21f47e044004.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a16834-1b93-7342-9152-1723644123f7.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a16835-3048-7270-b5e2-5397f5336011.md)（0 条可见消息）
+- [Guardian review](../conversations/markdown/01a169b0-82bf-7e70-9856-9fbfd3f01425.md)（0 条可见消息）
+- [帮我安装 Agent Reach：https://raw.githubusercontent.com/Panniant…](../conversations/markdown/01a176f6-7d4f-7270-92dc-253e5b0acfa0.md)（28 条可见消息）
+- [帮我解决一下这个问题 我在想查找文献时使用机构登录然后一直链接超时](../conversations/markdown/01a17785-52d7-7ad2-b29c-089a766f1008.md)（6 条可见消息）
+- [调研气凝胶热管理应用](../conversations/markdown/01a18045-b688-7b83-8867-8742b7bf3242.md)（13 条可见消息）
+- [fluent 全流程 (3)](../conversations/markdown/01a18aa5-3d0d-7860-a3d9-512ce11ce3e4.md)（22 条可见消息）
+- [发一句早上好](../conversations/markdown/01a193c1-f967-7d43-a213-2aeeafca7361.md)（2 条可见消息）
+- [New voice chat](../conversations/markdown/01a08aaa-ab73-71e1-b2bb-66c9801b17aa.md)（0 条可见消息）
+- ["D:\data\micro channel\channel with manifold\yaner shang\50…](../conversations/markdown/01a12044-d7ef-77d3-93c5-21cc9087e31e.md)（37 条可见消息）
+- [fluent 全流程](../conversations/markdown/01a13a95-793c-7af0-ba4d-4057037db5d8.md)（1003 条可见消息）
+- [感觉最近我电脑网络一直有问题 就连刚刚登录你都花了十多分钟 你看看是网络问题还是vpn问题](../conversations/markdown/01a17847-0b73-78f3-be38-4a7d18006687.md)（7 条可见消息）
+- [发一句早上好](../conversations/markdown/01a17a07-7a98-76a2-b7bb-035d75a6daa9.md)（4 条可见消息）
+- [发一句早上好](../conversations/markdown/01a17f2a-09a9-78a1-98ce-e5f0ce10e9e1.md)（4 条可见消息）
+- [让雷电模拟器绕过 VPN](../conversations/markdown/01a1814b-e0d0-7af3-8a51-f029dac63575.md)（12 条可见消息）
+- [fluent 全流程 (3)](../conversations/markdown/01a18191-7cd9-7352-93ff-9cbbf1e1d280.md)（9 条可见消息）
+- [发一句早上好](../conversations/markdown/01a1844d-1366-7a63-8d96-de24f9190420.md)（3 条可见消息）
+- [发一句早上好](../conversations/markdown/01a18978-80a0-7653-b15c-51e609006c1a.md)（3 条可见消息）
+- [发一句早上好](../conversations/markdown/01a18e9f-6c40-75c3-be78-dde99de768a1.md)（4 条可见消息）

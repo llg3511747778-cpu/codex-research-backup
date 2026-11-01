@@ -1,0 +1,42 @@
+{
+  "action": "Migrated original IDs, replaced local paths, validated PDFs, refreshed evidence for changed hashes, added MC-076/077, updated local rules",
+  "files": [
+    {
+      "input": "C:\\Users\\PC\\Downloads\\00_微通道文献知识库_快速索引.md",
+      "original_input_sha256": "405c538f1cd8689ec2bd7447c1eb97e3f2ebb660e73a760e7e72dc6297d4ec0d",
+      "master": "D:\\data\\微通道文献\\文件管理规则\\00_微通道文献知识库_快速索引.md",
+      "master_sha256": "9cb9595a5d402d32199a7a94b842412efe1e9ce78a54333192438e0e4a1ab4ff"
+    },
+    {
+      "input": "C:\\Users\\PC\\Downloads\\01_微通道文献知识卡片.jsonl",
+      "original_input_sha256": "f44fbd41d37a6212f56b2b362cdec56cd26a5bb1a02f0d8fb34f1d88d531e204",
+      "master": "D:\\data\\微通道文献\\文件管理规则\\01_微通道文献知识卡片.jsonl",
+      "master_sha256": "91c592b63591a2406e486a978d2d2d0a32733e6d8ae76698ad940b94c2bd74bb"
+    },
+    {
+      "input": "C:\\Users\\PC\\Downloads\\02_微通道项目持久上下文与导入协议.md",
+      "original_input_sha256": "42552cd83a91beb459d3fe5b2b354856c8dbc0a98c29b416131b893458c48b42",
+      "master": "D:\\data\\微通道文献\\文件管理规则\\02_微通道项目持久上下文与导入协议.md",
+      "master_sha256": "fcbfbed09f8324f493f611c73e87415741eae54e1778e6d9dc3eb51491eae3c7"
+    },
+    {
+      "input": "C:\\Users\\PC\\Downloads\\03_微通道文献方法与结构参数证据库.jsonl",
+      "original_input_sha256": "da358d53795489e18ca3e27bc327d72b4685e2cabd45169c62ee4118e0926f9b",
+      "master": "D:\\data\\微通道文献\\文件管理规则\\03_微通道文献方法与结构参数证据库.jsonl",
+      "master_sha256": "3f712caf67c57b9aed68026db828a52f8de1f29e7c5f5edfa21ac4258eabaeca"
+    },
+    {
+      "input": "C:\\Users\\PC\\Downloads\\04_项目指令_文献索引与持久保存.md",
+      "original_input_sha256": "5b29ef240a63f360c1523e56bf93a44887b1aa18b81b558cda7c832af767cdeb",
+      "master": "D:\\data\\微通道文献\\文件管理规则\\04_项目指令_文献索引与持久保存.md",
+      "master_sha256": "68b917e6adef06affd81b95e128888cc9e4d2af35afb8cdd21d4c4341942a76e"
+    }
+  ],
+  "subsequent_updates": [
+    {
+      "time": "2026-10-27T13:31:14.018801+08:00",
+      "action": "Free-endpoint 16-case native preprocessing accepted; context status refreshed",
+      "evidence": "D:\\Codex\\FreeEndpoint_Preprocessing_20261027\\FINAL_ACCEPTANCE.json"
+    }
+  ]
+}

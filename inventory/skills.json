@@ -1,0 +1,1374 @@
+[
+  {
+    "name": "academic-paper",
+    "path": "academic-paper",
+    "platform": "dependency_check_required",
+    "files": 63,
+    "bytes": 1003960
+  },
+  {
+    "name": "academic-paper-reviewer",
+    "path": "academic-paper-reviewer",
+    "platform": "dependency_check_required",
+    "files": 28,
+    "bytes": 613652
+  },
+  {
+    "name": "academic-pipeline",
+    "path": "academic-pipeline",
+    "platform": "dependency_check_required",
+    "files": 30,
+    "bytes": 621397
+  },
+  {
+    "name": "adaptyv",
+    "path": "adaptyv",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 29873
+  },
+  {
+    "name": "aeon",
+    "path": "aeon",
+    "platform": "dependency_check_required",
+    "files": 12,
+    "bytes": 76919
+  },
+  {
+    "name": "agent-reach",
+    "path": "agent-reach",
+    "platform": "dependency_check_required",
+    "files": 4,
+    "bytes": 16875
+  },
+  {
+    "name": "analytical-method-validation",
+    "path": "analytical-method-validation",
+    "platform": "dependency_check_required",
+    "files": 17,
+    "bytes": 207434
+  },
+  {
+    "name": "anndata",
+    "path": "anndata",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 68806
+  },
+  {
+    "name": "ansys-fluent-microchannel",
+    "path": "ansys-fluent-microchannel",
+    "platform": "windows_only",
+    "files": 8,
+    "bytes": 48417
+  },
+  {
+    "name": "ansys-manifold-mesh-quality",
+    "path": "ansys-manifold-mesh-quality",
+    "platform": "windows_only",
+    "files": 37,
+    "bytes": 282088
+  },
+  {
+    "name": "ansys-partition-for-hex-mesh",
+    "path": "ansys-partition-for-hex-mesh",
+    "platform": "windows_only",
+    "files": 3,
+    "bytes": 6800
+  },
+  {
+    "name": "arbor",
+    "path": "arbor",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 55590
+  },
+  {
+    "name": "arboreto",
+    "path": "arboreto",
+    "platform": "dependency_check_required",
+    "files": 5,
+    "bytes": 28743
+  },
+  {
+    "name": "astropy",
+    "path": "astropy",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 71004
+  },
+  {
+    "name": "autoskill",
+    "path": "autoskill",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 43685
+  },
+  {
+    "name": "benchling-integration",
+    "path": "benchling-integration",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 70319
+  },
+  {
+    "name": "bgpt-paper-search",
+    "path": "bgpt-paper-search",
+    "platform": "dependency_check_required",
+    "files": 1,
+    "bytes": 2852
+  },
+  {
+    "name": "bids",
+    "path": "bids",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 915430
+  },
+  {
+    "name": "biopython",
+    "path": "biopython",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 100888
+  },
+  {
+    "name": "bioservices",
+    "path": "bioservices",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 109563
+  },
+  {
+    "name": "bulk-rnaseq",
+    "path": "bulk-rnaseq",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 54755
+  },
+  {
+    "name": "cellxgene-census",
+    "path": "cellxgene-census",
+    "platform": "dependency_check_required",
+    "files": 4,
+    "bytes": 40132
+  },
+  {
+    "name": "cirq",
+    "path": "cirq",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 79092
+  },
+  {
+    "name": "citation-management",
+    "path": "citation-management",
+    "platform": "dependency_check_required",
+    "files": 21,
+    "bytes": 278612
+  },
+  {
+    "name": "clinical-decision-support",
+    "path": "clinical-decision-support",
+    "platform": "dependency_check_required",
+    "files": 28,
+    "bytes": 196024
+  },
+  {
+    "name": "clinical-reports",
+    "path": "clinical-reports",
+    "platform": "dependency_check_required",
+    "files": 36,
+    "bytes": 194236
+  },
+  {
+    "name": "cobrapy",
+    "path": "cobrapy",
+    "platform": "dependency_check_required",
+    "files": 3,
+    "bytes": 54930
+  },
+  {
+    "name": "consciousness-council",
+    "path": "consciousness-council",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 13920
+  },
+  {
+    "name": "dask",
+    "path": "dask",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 79212
+  },
+  {
+    "name": "database-lookup",
+    "path": "database-lookup",
+    "platform": "dependency_check_required",
+    "files": 81,
+    "bytes": 387372
+  },
+  {
+    "name": "datamol",
+    "path": "datamol",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 58258
+  },
+  {
+    "name": "deep-research",
+    "path": "deep-research",
+    "platform": "dependency_check_required",
+    "files": 53,
+    "bytes": 756359
+  },
+  {
+    "name": "deepchem",
+    "path": "deepchem",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 76460
+  },
+  {
+    "name": "deepspot-m",
+    "path": "deepspot-m",
+    "platform": "dependency_check_required",
+    "files": 3,
+    "bytes": 19584
+  },
+  {
+    "name": "deeptools",
+    "path": "deeptools",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 92916
+  },
+  {
+    "name": "depmap",
+    "path": "depmap",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 17067
+  },
+  {
+    "name": "dhdna-profiler",
+    "path": "dhdna-profiler",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 14736
+  },
+  {
+    "name": "diffdock",
+    "path": "diffdock",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 72960
+  },
+  {
+    "name": "dnanexus-integration",
+    "path": "dnanexus-integration",
+    "platform": "dependency_check_required",
+    "files": 12,
+    "bytes": 148873
+  },
+  {
+    "name": "docx",
+    "path": "docx",
+    "platform": "dependency_check_required",
+    "files": 61,
+    "bytes": 1131104
+  },
+  {
+    "name": "esm",
+    "path": "esm",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 86319
+  },
+  {
+    "name": "etetoolkit",
+    "path": "etetoolkit",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 104839
+  },
+  {
+    "name": "exa-search",
+    "path": "exa-search",
+    "platform": "dependency_check_required",
+    "files": 5,
+    "bytes": 21953
+  },
+  {
+    "name": "experimental-design",
+    "path": "experimental-design",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 55104
+  },
+  {
+    "name": "exploratory-data-analysis",
+    "path": "exploratory-data-analysis",
+    "platform": "dependency_check_required",
+    "files": 21,
+    "bytes": 206436
+  },
+  {
+    "name": "find-skills",
+    "path": "find-skills",
+    "platform": "dependency_check_required",
+    "files": 1,
+    "bytes": 5472
+  },
+  {
+    "name": "flowio",
+    "path": "flowio",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 73256
+  },
+  {
+    "name": "fluidsim",
+    "path": "fluidsim",
+    "platform": "dependency_check_required",
+    "files": 16,
+    "bytes": 176896
+  },
+  {
+    "name": "generate-image",
+    "path": "generate-image",
+    "platform": "dependency_check_required",
+    "files": 3,
+    "bytes": 56622
+  },
+  {
+    "name": "geniml",
+    "path": "geniml",
+    "platform": "dependency_check_required",
+    "files": 14,
+    "bytes": 156829
+  },
+  {
+    "name": "genomic-coordinates",
+    "path": "genomic-coordinates",
+    "platform": "dependency_check_required",
+    "files": 10,
+    "bytes": 104565
+  },
+  {
+    "name": "genomic-intelligence",
+    "path": "genomic-intelligence",
+    "platform": "dependency_check_required",
+    "files": 5,
+    "bytes": 24035
+  },
+  {
+    "name": "geomaster",
+    "path": "geomaster",
+    "platform": "dependency_check_required",
+    "files": 16,
+    "bytes": 165379
+  },
+  {
+    "name": "geopandas",
+    "path": "geopandas",
+    "platform": "dependency_check_required",
+    "files": 14,
+    "bytes": 143714
+  },
+  {
+    "name": "get-available-resources",
+    "path": "get-available-resources",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 130712
+  },
+  {
+    "name": "gget",
+    "path": "gget",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 114650
+  },
+  {
+    "name": "ginkgo-cloud-lab",
+    "path": "ginkgo-cloud-lab",
+    "platform": "dependency_check_required",
+    "files": 18,
+    "bytes": 47651
+  },
+  {
+    "name": "glycoengineering",
+    "path": "glycoengineering",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 18238
+  },
+  {
+    "name": "grill-me",
+    "path": "grill-me",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 294
+  },
+  {
+    "name": "grilling",
+    "path": "grilling",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 2100
+  },
+  {
+    "name": "gtars",
+    "path": "gtars",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 137631
+  },
+  {
+    "name": "histolab",
+    "path": "histolab",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 75962
+  },
+  {
+    "name": "hugging-science",
+    "path": "hugging-science",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 49500
+  },
+  {
+    "name": "hypogenic",
+    "path": "hypogenic",
+    "platform": "dependency_check_required",
+    "files": 18,
+    "bytes": 143380
+  },
+  {
+    "name": "hypothesis-generation",
+    "path": "hypothesis-generation",
+    "platform": "dependency_check_required",
+    "files": 27,
+    "bytes": 256169
+  },
+  {
+    "name": "imaging-data-commons",
+    "path": "imaging-data-commons",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 230588
+  },
+  {
+    "name": "infographics",
+    "path": "infographics",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 152692
+  },
+  {
+    "name": "iso-standards-readiness",
+    "path": "iso-standards-readiness",
+    "platform": "dependency_check_required",
+    "files": 32,
+    "bytes": 267636
+  },
+  {
+    "name": "lab-hardware-cad",
+    "path": "lab-hardware-cad",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 173718
+  },
+  {
+    "name": "labarchive-integration",
+    "path": "labarchive-integration",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 80180
+  },
+  {
+    "name": "lamindb",
+    "path": "lamindb",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 94146
+  },
+  {
+    "name": "latchbio-integration",
+    "path": "latchbio-integration",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 87040
+  },
+  {
+    "name": "latex-posters",
+    "path": "latex-posters",
+    "platform": "dependency_check_required",
+    "files": 17,
+    "bytes": 249123
+  },
+  {
+    "name": "liteparse",
+    "path": "liteparse",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 32721
+  },
+  {
+    "name": "literature-review",
+    "path": "literature-review",
+    "platform": "dependency_check_required",
+    "files": 12,
+    "bytes": 133827
+  },
+  {
+    "name": "markdown-mermaid-writing",
+    "path": "markdown-mermaid-writing",
+    "platform": "dependency_check_required",
+    "files": 37,
+    "bytes": 281090
+  },
+  {
+    "name": "market-research-reports",
+    "path": "market-research-reports",
+    "platform": "dependency_check_required",
+    "files": 26,
+    "bytes": 187031
+  },
+  {
+    "name": "markitdown",
+    "path": "markitdown",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 103944
+  },
+  {
+    "name": "matchms",
+    "path": "matchms",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 90183
+  },
+  {
+    "name": "matlab",
+    "path": "matlab",
+    "platform": "dependency_check_required",
+    "files": 20,
+    "bytes": 164536
+  },
+  {
+    "name": "matplotlib",
+    "path": "matplotlib",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 88491
+  },
+  {
+    "name": "medchem",
+    "path": "medchem",
+    "platform": "dependency_check_required",
+    "files": 4,
+    "bytes": 41654
+  },
+  {
+    "name": "modal",
+    "path": "modal",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 77775
+  },
+  {
+    "name": "molecular-dynamics",
+    "path": "molecular-dynamics",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 20364
+  },
+  {
+    "name": "molfeat",
+    "path": "molfeat",
+    "platform": "dependency_check_required",
+    "files": 5,
+    "bytes": 58768
+  },
+  {
+    "name": "nature-academic-search",
+    "path": "nature-academic-search",
+    "platform": "dependency_check_required",
+    "files": 48,
+    "bytes": 265900
+  },
+  {
+    "name": "nature-citation",
+    "path": "nature-citation",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 129309
+  },
+  {
+    "name": "nature-data",
+    "path": "nature-data",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 55726
+  },
+  {
+    "name": "nature-downloader",
+    "path": "nature-downloader",
+    "platform": "dependency_check_required",
+    "files": 66,
+    "bytes": 440058
+  },
+  {
+    "name": "nature-experiment-log",
+    "path": "nature-experiment-log",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 20493
+  },
+  {
+    "name": "nature-figure",
+    "path": "nature-figure",
+    "platform": "dependency_check_required",
+    "files": 126,
+    "bytes": 35103683
+  },
+  {
+    "name": "nature-image2ppt",
+    "path": "nature-image2ppt",
+    "platform": "dependency_check_required",
+    "files": 87,
+    "bytes": 784484
+  },
+  {
+    "name": "nature-literature-pipeline",
+    "path": "nature-literature-pipeline",
+    "platform": "dependency_check_required",
+    "files": 12,
+    "bytes": 36879
+  },
+  {
+    "name": "nature-paper-card",
+    "path": "nature-paper-card",
+    "platform": "dependency_check_required",
+    "files": 21,
+    "bytes": 85452
+  },
+  {
+    "name": "nature-paper-to-patent",
+    "path": "nature-paper-to-patent",
+    "platform": "dependency_check_required",
+    "files": 65,
+    "bytes": 388727
+  },
+  {
+    "name": "nature-paper2ppt",
+    "path": "nature-paper2ppt",
+    "platform": "dependency_check_required",
+    "files": 19,
+    "bytes": 76208
+  },
+  {
+    "name": "nature-polishing",
+    "path": "nature-polishing",
+    "platform": "dependency_check_required",
+    "files": 33,
+    "bytes": 88405
+  },
+  {
+    "name": "researchwrite",
+    "path": "nature-proposal-writer",
+    "platform": "dependency_check_required",
+    "files": 34,
+    "bytes": 102937
+  },
+  {
+    "name": "nature-reader",
+    "path": "nature-reader",
+    "platform": "dependency_check_required",
+    "files": 20,
+    "bytes": 67929
+  },
+  {
+    "name": "nature-ref-verifier",
+    "path": "nature-ref-verifier",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 18449
+  },
+  {
+    "name": "nature-response",
+    "path": "nature-response",
+    "platform": "dependency_check_required",
+    "files": 37,
+    "bytes": 154287
+  },
+  {
+    "name": "nature-reviewer",
+    "path": "nature-reviewer",
+    "platform": "dependency_check_required",
+    "files": 19,
+    "bytes": 83726
+  },
+  {
+    "name": "nature-shared",
+    "path": "nature-shared",
+    "platform": "dependency_check_required",
+    "files": 21,
+    "bytes": 134083
+  },
+  {
+    "name": "nature-statistics",
+    "path": "nature-statistics",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 38223
+  },
+  {
+    "name": "nature-writing",
+    "path": "nature-writing",
+    "platform": "dependency_check_required",
+    "files": 76,
+    "bytes": 212551
+  },
+  {
+    "name": "ncats-arax",
+    "path": "ncats-arax",
+    "platform": "dependency_check_required",
+    "files": 4,
+    "bytes": 104874
+  },
+  {
+    "name": "networkx",
+    "path": "networkx",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 61610
+  },
+  {
+    "name": "neurokit2",
+    "path": "neurokit2",
+    "platform": "dependency_check_required",
+    "files": 20,
+    "bytes": 181181
+  },
+  {
+    "name": "neuropixels-analysis",
+    "path": "neuropixels-analysis",
+    "platform": "dependency_check_required",
+    "files": 18,
+    "bytes": 150052
+  },
+  {
+    "name": "nextflow",
+    "path": "nextflow",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 79661
+  },
+  {
+    "name": "omero-integration",
+    "path": "omero-integration",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 145193
+  },
+  {
+    "name": "onekgpd",
+    "path": "onekgpd",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 1124229
+  },
+  {
+    "name": "ontology-term-resolution",
+    "path": "ontology-term-resolution",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 56340
+  },
+  {
+    "name": "open-notebook",
+    "path": "open-notebook",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 57777
+  },
+  {
+    "name": "openpiv",
+    "path": "openpiv",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 43076
+  },
+  {
+    "name": "opentrons-integration",
+    "path": "opentrons-integration",
+    "platform": "dependency_check_required",
+    "files": 16,
+    "bytes": 101838
+  },
+  {
+    "name": "optimize-for-gpu",
+    "path": "optimize-for-gpu",
+    "platform": "dependency_check_required",
+    "files": 16,
+    "bytes": 285386
+  },
+  {
+    "name": "origin-scientific-plotting",
+    "path": "origin-scientific-plotting",
+    "platform": "windows_only",
+    "files": 8,
+    "bytes": 44678
+  },
+  {
+    "name": "pacsomatic",
+    "path": "pacsomatic",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 47986
+  },
+  {
+    "name": "paper-lookup",
+    "path": "paper-lookup",
+    "platform": "dependency_check_required",
+    "files": 17,
+    "bytes": 141455
+  },
+  {
+    "name": "paperclip",
+    "path": "paperclip",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 94322
+  },
+  {
+    "name": "paperzilla",
+    "path": "paperzilla",
+    "platform": "dependency_check_required",
+    "files": 1,
+    "bytes": 3745
+  },
+  {
+    "name": "parallel-web",
+    "path": "parallel-web",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 24209
+  },
+  {
+    "name": "pathml",
+    "path": "pathml",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 151781
+  },
+  {
+    "name": "pathogen-variant-surveillance",
+    "path": "pathogen-variant-surveillance",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 105652
+  },
+  {
+    "name": "pathway-enrichment",
+    "path": "pathway-enrichment",
+    "platform": "dependency_check_required",
+    "files": 5,
+    "bytes": 42263
+  },
+  {
+    "name": "pdf",
+    "path": "pdf",
+    "platform": "dependency_check_required",
+    "files": 12,
+    "bytes": 59111
+  },
+  {
+    "name": "peer-review",
+    "path": "peer-review",
+    "platform": "dependency_check_required",
+    "files": 24,
+    "bytes": 189404
+  },
+  {
+    "name": "pennylane",
+    "path": "pennylane",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 98204
+  },
+  {
+    "name": "phylogenetics",
+    "path": "phylogenetics",
+    "platform": "dependency_check_required",
+    "files": 3,
+    "bytes": 28641
+  },
+  {
+    "name": "pi-agent",
+    "path": "pi-agent",
+    "platform": "dependency_check_required",
+    "files": 35,
+    "bytes": 261411
+  },
+  {
+    "name": "pkpd-modeling",
+    "path": "pkpd-modeling",
+    "platform": "dependency_check_required",
+    "files": 28,
+    "bytes": 317767
+  },
+  {
+    "name": "polars",
+    "path": "polars",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 80688
+  },
+  {
+    "name": "polars-bio",
+    "path": "polars-bio",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 67776
+  },
+  {
+    "name": "pptx",
+    "path": "pptx",
+    "platform": "dependency_check_required",
+    "files": 57,
+    "bytes": 1145286
+  },
+  {
+    "name": "pptx-posters",
+    "path": "pptx-posters",
+    "platform": "dependency_check_required",
+    "files": 21,
+    "bytes": 246040
+  },
+  {
+    "name": "primekg",
+    "path": "primekg",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 9967
+  },
+  {
+    "name": "protocolsio-integration",
+    "path": "protocolsio-integration",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 144762
+  },
+  {
+    "name": "pufferlib",
+    "path": "pufferlib",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 127242
+  },
+  {
+    "name": "pydeseq2",
+    "path": "pydeseq2",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 56156
+  },
+  {
+    "name": "pydicom",
+    "path": "pydicom",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 177293
+  },
+  {
+    "name": "pyhealth",
+    "path": "pyhealth",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 40886
+  },
+  {
+    "name": "pylabrobot",
+    "path": "pylabrobot",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 109366
+  },
+  {
+    "name": "pymatgen",
+    "path": "pymatgen",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 163807
+  },
+  {
+    "name": "pymc",
+    "path": "pymc",
+    "platform": "dependency_check_required",
+    "files": 10,
+    "bytes": 102490
+  },
+  {
+    "name": "pymoo",
+    "path": "pymoo",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 84190
+  },
+  {
+    "name": "pyopenms",
+    "path": "pyopenms",
+    "platform": "dependency_check_required",
+    "files": 23,
+    "bytes": 147175
+  },
+  {
+    "name": "pysam",
+    "path": "pysam",
+    "platform": "dependency_check_required",
+    "files": 14,
+    "bytes": 138678
+  },
+  {
+    "name": "pytdc",
+    "path": "pytdc",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 108657
+  },
+  {
+    "name": "pytorch-lightning",
+    "path": "pytorch-lightning",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 140799
+  },
+  {
+    "name": "pyzotero",
+    "path": "pyzotero",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 42802
+  },
+  {
+    "name": "qiskit",
+    "path": "qiskit",
+    "platform": "dependency_check_required",
+    "files": 15,
+    "bytes": 140557
+  },
+  {
+    "name": "qutip",
+    "path": "qutip",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 145203
+  },
+  {
+    "name": "rdkit",
+    "path": "rdkit",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 94097
+  },
+  {
+    "name": "relsa-severity-assessment",
+    "path": "relsa-severity-assessment",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 122737
+  },
+  {
+    "name": "research-grants",
+    "path": "research-grants",
+    "platform": "dependency_check_required",
+    "files": 16,
+    "bytes": 252001
+  },
+  {
+    "name": "research-lookup",
+    "path": "research-lookup",
+    "platform": "dependency_check_required",
+    "files": 4,
+    "bytes": 90859
+  },
+  {
+    "name": "rowan",
+    "path": "rowan",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 42298
+  },
+  {
+    "name": "scanpy",
+    "path": "scanpy",
+    "platform": "dependency_check_required",
+    "files": 25,
+    "bytes": 122721
+  },
+  {
+    "name": "scholar-evaluation",
+    "path": "scholar-evaluation",
+    "platform": "dependency_check_required",
+    "files": 19,
+    "bytes": 157706
+  },
+  {
+    "name": "scientific-brainstorming",
+    "path": "scientific-brainstorming",
+    "platform": "dependency_check_required",
+    "files": 10,
+    "bytes": 129660
+  },
+  {
+    "name": "scientific-critical-thinking",
+    "path": "scientific-critical-thinking",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 106788
+  },
+  {
+    "name": "scientific-schematics",
+    "path": "scientific-schematics",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 94755
+  },
+  {
+    "name": "scientific-slides",
+    "path": "scientific-slides",
+    "platform": "dependency_check_required",
+    "files": 24,
+    "bytes": 383663
+  },
+  {
+    "name": "scientific-visualization",
+    "path": "scientific-visualization",
+    "platform": "dependency_check_required",
+    "files": 18,
+    "bytes": 191073
+  },
+  {
+    "name": "scientific-writing",
+    "path": "scientific-writing",
+    "platform": "dependency_check_required",
+    "files": 31,
+    "bytes": 173481
+  },
+  {
+    "name": "scikit-bio",
+    "path": "scikit-bio",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 41068
+  },
+  {
+    "name": "scikit-learn",
+    "path": "scikit-learn",
+    "platform": "dependency_check_required",
+    "files": 11,
+    "bytes": 121923
+  },
+  {
+    "name": "scikit-survival",
+    "path": "scikit-survival",
+    "platform": "dependency_check_required",
+    "files": 13,
+    "bytes": 147341
+  },
+  {
+    "name": "scvelo",
+    "path": "scvelo",
+    "platform": "dependency_check_required",
+    "files": 3,
+    "bytes": 24345
+  },
+  {
+    "name": "scvi-tools",
+    "path": "scvi-tools",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 104361
+  },
+  {
+    "name": "seaborn",
+    "path": "seaborn",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 88667
+  },
+  {
+    "name": "shap",
+    "path": "shap",
+    "platform": "dependency_check_required",
+    "files": 10,
+    "bytes": 121058
+  },
+  {
+    "name": "simpy",
+    "path": "simpy",
+    "platform": "dependency_check_required",
+    "files": 16,
+    "bytes": 148375
+  },
+  {
+    "name": "solidworks-microchannel-modeling",
+    "path": "solidworks-microchannel-modeling",
+    "platform": "windows_only",
+    "files": 9,
+    "bytes": 27861
+  },
+  {
+    "name": "stable-baselines3",
+    "path": "stable-baselines3",
+    "platform": "dependency_check_required",
+    "files": 8,
+    "bytes": 90463
+  },
+  {
+    "name": "statistical-analysis",
+    "path": "statistical-analysis",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 117931
+  },
+  {
+    "name": "statistical-power",
+    "path": "statistical-power",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 53256
+  },
+  {
+    "name": "statsmodels",
+    "path": "statsmodels",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 109390
+  },
+  {
+    "name": "sympy",
+    "path": "sympy",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 72828
+  },
+  {
+    "name": "tamarind",
+    "path": "tamarind",
+    "platform": "dependency_check_required",
+    "files": 5,
+    "bytes": 58078
+  },
+  {
+    "name": "tiledbvcf",
+    "path": "tiledbvcf",
+    "platform": "dependency_check_required",
+    "files": 1,
+    "bytes": 14557
+  },
+  {
+    "name": "timesfm-forecasting",
+    "path": "timesfm-forecasting",
+    "platform": "dependency_check_required",
+    "files": 31,
+    "bytes": 2100973
+  },
+  {
+    "name": "torch-geometric",
+    "path": "torch-geometric",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 62324
+  },
+  {
+    "name": "torchdrug",
+    "path": "torchdrug",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 57778
+  },
+  {
+    "name": "transformers",
+    "path": "transformers",
+    "platform": "dependency_check_required",
+    "files": 6,
+    "bytes": 56563
+  },
+  {
+    "name": "treatment-plans",
+    "path": "treatment-plans",
+    "platform": "dependency_check_required",
+    "files": 23,
+    "bytes": 154786
+  },
+  {
+    "name": "umap-learn",
+    "path": "umap-learn",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 40447
+  },
+  {
+    "name": "uncertainty-and-units",
+    "path": "uncertainty-and-units",
+    "platform": "dependency_check_required",
+    "files": 14,
+    "bytes": 208872
+  },
+  {
+    "name": "usfiscaldata",
+    "path": "usfiscaldata",
+    "platform": "dependency_check_required",
+    "files": 9,
+    "bytes": 60199
+  },
+  {
+    "name": "vaex",
+    "path": "vaex",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 88962
+  },
+  {
+    "name": "venue-templates",
+    "path": "venue-templates",
+    "platform": "dependency_check_required",
+    "files": 31,
+    "bytes": 402484
+  },
+  {
+    "name": "waypoint-bio",
+    "path": "waypoint-bio",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 72081
+  },
+  {
+    "name": "what-if-oracle",
+    "path": "what-if-oracle",
+    "platform": "dependency_check_required",
+    "files": 2,
+    "bytes": 14167
+  },
+  {
+    "name": "xlsx",
+    "path": "xlsx",
+    "platform": "dependency_check_required",
+    "files": 53,
+    "bytes": 1104962
+  },
+  {
+    "name": "zarr-python",
+    "path": "zarr-python",
+    "platform": "dependency_check_required",
+    "files": 7,
+    "bytes": 34403
+  }
+]

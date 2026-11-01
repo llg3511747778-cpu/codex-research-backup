@@ -1,0 +1,52 @@
+[
+  {
+    "path": "archives/skills.zip.parts/part-000.bin",
+    "bytes": 4194304,
+    "sha256": "67a3e18ac11474dc16a184b66f1beabcdbf007538eed7cca5f4a5d0e26f2e28d"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-001.bin",
+    "bytes": 4194304,
+    "sha256": "c96b31974d61a80d9b90ccb073ef93e90be338371ad3654b924f2934188ad9ae"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-002.bin",
+    "bytes": 4194304,
+    "sha256": "81e1fb1604259e16ca9c8a725810f8a701cb70e9f154e8e4bb47c284e3fc7010"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-003.bin",
+    "bytes": 4194304,
+    "sha256": "0e02c2c242b52e6afdbe374ca960e77b4a5d9fe2291a61b7ef85808e6aad5f9e"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-004.bin",
+    "bytes": 4194304,
+    "sha256": "093d3466cfa7631bf3a08689e7991f98d0ca8d15225dbb6436d0918b6adb5456"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-005.bin",
+    "bytes": 4194304,
+    "sha256": "d475ad9aa9b4f95022949611cc4cdb91d8a9f3188d7fceb8cd1a75e1c43060df"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-006.bin",
+    "bytes": 4194304,
+    "sha256": "2018402776ff89a6800b793e9d77e7327c4ed51b3fa6c2deafb64be3b063fa52"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-007.bin",
+    "bytes": 4194304,
+    "sha256": "be607404a317f9ee9e3cc6fd3eae9eb1270e30fdb699adb4974d229060616412"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-008.bin",
+    "bytes": 4194304,
+    "sha256": "d9e734b1601c87fc3a4156c903807956afdd8da66509811e3697bce3b96e991d"
+  },
+  {
+    "path": "archives/skills.zip.parts/part-009.bin",
+    "bytes": 2969649,
+    "sha256": "2e6a41f100796743804d58d7c825eb49cfb94dc4706649f5ec4efb7a3e1d6dca"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "library_records": 75,
+  "local_readable_pdf": 62,
+  "historical_missing_originals": 13,
+  "id_sets_equal": true,
+  "source_compatibility_hardlinks_verified": 59,
+  "new_references": [
+    "MC-076",
+    "MC-077"
+  ],
+  "origin_projects": [
+    "E:\\data\\micro channel\\channel with manifold\\yaner shang\\vol 2\\juchi free endpoints\\02_current_data_figures\\500\\Uniformity_Existing17_500.opju",
+    "E:\\data\\micro channel\\channel with manifold\\yaner shang\\vol 2\\juchi free endpoints\\02_current_data_figures\\1000\\Uniformity_Existing17_1000.opju"
+  ],
+  "native_graphs": 8,
+  "native_curve_svg_raster_images": 0,
+  "planned_geometries": 16,
+  "new_CAD_or_CFD_started": false,
+  "cloud_project_instructions_updated": false,
+  "reason": "Project AGENTS.md is read-only generated mirror; paste local 04 entry into cloud project instructions",
+  "original_formal_simulation_projects_modified": false
+}
