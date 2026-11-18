@@ -1,5 +1,7 @@
 # 本地对话索引
 
+- [2026-11-18 本地 Codex 对话快照](snapshots/2026-11-18/INDEX.md)（10 份，2873 条可见消息）
+
 导出快照：2026-11-01T08:09:13.294954+08:00。共 163 份。
 
 - [https://github.com/Yuan1z0825/nature-skills，从该网址中为你自己@GitHu…](../conversations/markdown/01a08a08-7740-7993-93f7-b99b7eb861ee.md)（14 条可见消息）

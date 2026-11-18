@@ -1,0 +1,152 @@
+{
+  "snapshot_date": "2026-11-18",
+  "captured_at": "2026-11-18T16:41:20+08:00",
+  "conversations": [
+    {
+      "id": "01a18045-b688-7b83-8867-8742b7bf3242",
+      "kind": "user",
+      "archived": false,
+      "visible_messages": 11,
+      "size": 15763,
+      "sha256": "bb1e8688bb0f2d800f9500c9c8d0d2b9a087355193c8546edcaec8a44d4bb04e",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 0,
+      "files": [
+        "markdown/01a18045-b688-7b83-8867-8742b7bf3242.md"
+      ]
+    },
+    {
+      "id": "01a19eba-83d1-7743-ada3-ec50d552a780",
+      "kind": "user",
+      "archived": true,
+      "visible_messages": 289,
+      "size": 201340,
+      "sha256": "11b55193b8b32461b268ff603a160862835e0b4c31e582166e5ba199f2a8aa03",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 1,
+      "files": [
+        "markdown/01a19eba-83d1-7743-ada3-ec50d552a780.md"
+      ]
+    },
+    {
+      "id": "01a1a85e-52ef-71a2-9701-6e00b6139f9d",
+      "kind": "automation",
+      "archived": true,
+      "visible_messages": 3,
+      "size": 744,
+      "sha256": "bb44d99f747fc15f05488f2a18d4d6674f7ce3264dc1865456426c17f9ebc501",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 0,
+      "files": [
+        "markdown/01a1a85e-52ef-71a2-9701-6e00b6139f9d.md"
+      ]
+    },
+    {
+      "id": "01a1ad80-db2c-7e20-8a2f-7ae453f1579f",
+      "kind": "automation",
+      "archived": true,
+      "visible_messages": 1,
+      "size": 415,
+      "sha256": "d23d1c503c1adbee47892fba743cd6be13ba11a241f0581766054f4f3e75d351",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 0,
+      "files": [
+        "markdown/01a1ad80-db2c-7e20-8a2f-7ae453f1579f.md"
+      ]
+    },
+    {
+      "id": "01a1b2ab-0991-73c2-b7b0-5f7f97d66580",
+      "kind": "automation",
+      "archived": true,
+      "visible_messages": 1,
+      "size": 415,
+      "sha256": "57517f98fc3d319970c4825de0228bcb2956f8fba5c135694279b2c26fc23fc0",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 0,
+      "files": [
+        "markdown/01a1b2ab-0991-73c2-b7b0-5f7f97d66580.md"
+      ]
+    },
+    {
+      "id": "01a1b4a9-a75b-7772-99f7-45f9e8346efe",
+      "kind": "user",
+      "archived": false,
+      "visible_messages": 1998,
+      "size": 1992742,
+      "sha256": "2249b00ec5736067e21fc2515f3eaeb7ebeee9ca04193159977e19fe5857f4e6",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 1,
+      "files": [
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-01.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-02.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-03.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-04.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-05.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-06.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-07.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-08.md",
+        "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-part-09.md"
+      ],
+      "entrypoint": "markdown/01a1b4a9-a75b-7772-99f7-45f9e8346efe-parts.md"
+    },
+    {
+      "id": "01a1b4ac-3a7c-77b0-ab91-6fb32514cc4f",
+      "kind": "user",
+      "archived": true,
+      "visible_messages": 3,
+      "size": 916,
+      "sha256": "6c1e390dfe11d4f1804afe35a59fe8e4deab617589e67009399a912c5c31b1a5",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 0,
+      "files": [
+        "markdown/01a1b4ac-3a7c-77b0-ab91-6fb32514cc4f.md"
+      ]
+    },
+    {
+      "id": "01a1bd9e-0be2-7970-9702-c427e27012f8",
+      "kind": "user",
+      "archived": false,
+      "visible_messages": 445,
+      "size": 269053,
+      "sha256": "ca20694b9642362e614e9ad2b53f11a7b4f7d52485bfc92f0d9175bb42d355ce",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 2,
+      "files": [
+        "markdown/01a1bd9e-0be2-7970-9702-c427e27012f8.md"
+      ]
+    },
+    {
+      "id": "01a1c9c8-155c-7c51-b5cf-4388da28a637",
+      "kind": "user",
+      "archived": false,
+      "visible_messages": 112,
+      "size": 50977,
+      "sha256": "0b8f2834a2a5873f2a4e520ab09019fdaeef72de02bf648d168e226fc96ecff3",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 2,
+      "files": [
+        "markdown/01a1c9c8-155c-7c51-b5cf-4388da28a637.md"
+      ]
+    },
+    {
+      "id": "01a1edc7-3b75-72a2-ae4a-eef405896a77",
+      "kind": "user",
+      "archived": false,
+      "visible_messages": 10,
+      "size": 3462,
+      "sha256": "99ade94bbad692ebe63b1feb87466548df37b0ee7f92dd21987eb3920d7facb9",
+      "redaction_placeholders": 0,
+      "attachment_placeholders": 0,
+      "files": [
+        "markdown/01a1edc7-3b75-72a2-ae4a-eef405896a77.md"
+      ]
+    }
+  ],
+  "visible_message_count": 2873,
+  "redaction_placeholders": 0,
+  "attachment_placeholders": 6,
+  "excluded": {
+    "internal_review": 25,
+    "subagent": 9
+  }
+}
